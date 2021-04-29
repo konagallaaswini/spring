@@ -1,2 +1,2 @@
 # spring
-spring boot project 
+spring boot project for learning
